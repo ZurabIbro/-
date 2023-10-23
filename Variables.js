@@ -1,0 +1,10 @@
+let GameName ;
+let GameDescription;
+let GameVersion;
+let GameMainCharachter;
+let GameDeveloper;
+let GameProgrammingLanguage;
+let GameProgrammingLanguageVersion;
+let GameMap;
+let GameDevelopingSite;
+let InterfaceLanguage;
